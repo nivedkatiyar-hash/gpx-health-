@@ -7,3 +7,6 @@ A diagnostic extension for `gpx` that checks your installation for broken links 
 ## Installation
 ```bash
 gpx ext install your-username/gpx-health
+---
+USAGE ### 2.
+gpx -health
