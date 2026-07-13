@@ -1,2 +1,9 @@
-# gpx-health-
-another extension that is for gpx ( all owned by me ) 
+GPX-health
+```markdown
+# 🏥 gpx-health
+
+A diagnostic extension for `gpx` that checks your installation for broken links or missing files.
+
+## Installation
+```bash
+gpx ext install your-username/gpx-health
